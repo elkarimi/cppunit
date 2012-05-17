@@ -16,7 +16,7 @@ all: $(EXEC) $(EXECTEST)
 
 # Clean project
 clean:
-	rm -rf *.o *.log *~
+	rm -rf *.o *.log *~ *.xml
 
 mrproper: clean
 	rm -rf $(EXEC) $(EXECTEST)
