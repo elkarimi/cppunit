@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.github.com/zedtux/gpair/master/media/developpeur_breton_logo.png" alt="Je suis un developpeyr Breton!"/>
+  <img src="https://raw.github.com/zedtux/gpair/master/media/developpeur_breton_logo.png" alt="Developpeur Breton" title="Developpeur Breton"/>
 </p>
+
+[![endorse](http://api.coderwall.com/zedtux/endorsecount.png)](http://coderwall.com/zedtux)
 
 # CppUnit example
 
